@@ -3,7 +3,7 @@
   "name": "Playwright MCP Bridge (Multi)",
   "version": "0.0.68",
   "description": "Share browser tabs with Playwright MCP server (multi-connection support)",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyU0ZATMEJlrzRNqOM4mO9TiMUfJnkxQRSBjVYWHqMFxEECMHp5MoWNQFBsDHrZEzVbJOWdJbRFigMfZ/0RbtdFNzqDv/pBd7Mt9fPP1RiHTy7JqR+S0LLz20I6SU+O/1Y0mljMuJtMezI/xeIq8Tl7g0hEEWyJvR8VrSiKIPUwbBWEz8cFyQXrbW8R/d7BHMfqJHA93kSJK6kd8i/2pF3K3QBsf/jCJ4AoT8sMRxXUccnsshZsl6fk/X73TjOWNxO/ePfhSK3zzZ4OUq2wWisPUtKRUu2yq5Yz10kMvCpiT+aSJrpH78YLAITaxpnRPj2LvxiM5SUi1cFFoLnwIDAQAB",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwRsUUO4mmbCi4JpmrIoIw31iVW9+xUJRZ6nSzya17PQkaUPDxe1IpgM+vpd/xB6mJWlJSyE1Lj95c0sbomGfVY1M0zUeKbaRVcAb+/a6m59gNR+ubFlmTX0nK9/8fE2FpRB9D+4N5jyeIPQuASW/0oswI2/ijK7hH5NTRX8gWc/ROMSgUj7rKhTAgBrICt/NsStgDPsxRTPPJnhJ/ViJtM1P5KsSYswE987DPoFnpmkFpq8g1ae0eYbQfXy55ieaacC4QWyJPj3daU2kMfBQw7MXnnk0H/WDxouMOIHnd8MlQxpEMqAihj7KpuONH+MUhuj9HEQo4df6bSaIuQ0b4QIDAQAB",
   "permissions": [
     "debugger",
     "activeTab",
