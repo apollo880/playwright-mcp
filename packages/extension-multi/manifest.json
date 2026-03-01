@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Playwright MCP Bridge (Multi)",
+  "version": "0.0.68",
+  "description": "Share browser tabs with Playwright MCP server (multi-connection support)",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyU0ZATMEJlrzRNqOM4mO9TiMUfJnkxQRSBjVYWHqMFxEECMHp5MoWNQFBsDHrZEzVbJOWdJbRFigMfZ/0RbtdFNzqDv/pBd7Mt9fPP1RiHTy7JqR+S0LLz20I6SU+O/1Y0mljMuJtMezI/xeIq8Tl7g0hEEWyJvR8VrSiKIPUwbBWEz8cFyQXrbW8R/d7BHMfqJHA93kSJK6kd8i/2pF3K3QBsf/jCJ4AoT8sMRxXUccnsshZsl6fk/X73TjOWNxO/ePfhSK3zzZ4OUq2wWisPUtKRUu2yq5Yz10kMvCpiT+aSJrpH78YLAITaxpnRPj2LvxiM5SUi1cFFoLnwIDAQAB",
+  "permissions": [
+    "debugger",
+    "activeTab",
+    "tabs",
+    "alarms"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "lib/background.mjs",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Playwright MCP Bridge (Multi)",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  }
+}
